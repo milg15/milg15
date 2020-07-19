@@ -1,17 +1,18 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the company Ludik as a Full Stack developer. 
+- 😄 Pronouns: She/Her 
+- 🌱 I’m currently learning python and trying to improve as a web dev <3 
+- 🔭 I’m currently working as a Full Stack developer. 
+- 📫 How to reach me: [thavscode](https://www.instagram.com/thavcodes) on instagram.
+- 💬 Ask me about anything I would love to know what's in your head and see if that can spark a conversation.
+- ⚡ Fun fact: I enjoy playing league of legends but I suck at it 😄
 
 <!--
 **milg15/milg15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+.
 -->
