@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 😄 Pronouns: She/Her 
-- 🌱 I’m currently learning python and trying to improve as a web dev <3 
-- 🔭 I’m currently working as a Full Stack developer. 
+- 🌱 I’m learning python and trying to improve as a web dev <3 
+- 🔭 I’m a Freelance Full Stack developer. 
 - 📫 How to reach me: I stream on [twitch (thavsss)](https://www.twitch.tv/thavsss) live coding and games.
 - 💬 Ask me about anything I would love to know what's in your head and see if that can spark a conversation.
 - ⚡ Fun fact: I enjoy playing league of legends but I suck at it 😄
