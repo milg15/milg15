@@ -8,3 +8,4 @@
 - ⚡ Fun fact: I enjoy playing league of legends but I suck at it 😄
 
 [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=milg15&show_icons=true&theme=dracula&hide=stars)](https://github.com/milg15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milg15&layout=compact)](https://github.com/milg15/github-readme-stats)
