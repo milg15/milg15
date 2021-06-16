@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![MasterHead](header.png)](https://github.com/milg15)
+
 - 😄 Pronouns: She/Her 
 - 🌱 I’m learning python and trying to improve as a web dev <3 
 - 🔭 I’m a Freelance Full Stack developer. 
