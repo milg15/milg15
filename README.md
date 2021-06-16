@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![MasterHead](header.png)](https://github.com/milg15)
 
 - 😄 Pronouns: She/Her 
