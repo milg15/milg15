@@ -7,4 +7,4 @@
 - 💬 Ask me about anything I would love to know what's in your head and see if that can spark a conversation.
 - ⚡ Fun fact: I enjoy playing league of legends but I suck at it 😄
 
-[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=milg15&show_icons=true&theme=dracula)](https://github.com/milg15/github-readme-stats)
+[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=milg15&show_icons=true&theme=dracula&hide=stars)](https://github.com/milg15/github-readme-stats)
